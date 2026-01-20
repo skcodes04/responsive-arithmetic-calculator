@@ -24,4 +24,4 @@ It supports **both keyboard and mouse input**, includes a **dark/light mode togg
 - Escape: Clear input
 
 ## 🖥️ Live Preview
-🔗 
+🔗 https://skcodes04.github.io/responsive-arithmetic-calculator/
